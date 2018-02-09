@@ -1,0 +1,14 @@
+{
+  "name": "Custom Offline Page",
+  "short_name": "Offline Page",
+  "icons": [{
+    "src": "img/bea",
+    "sizes": "96x96"
+  }, {
+    "src": "images/launcher-icon-4x.png",
+    "sizes": "192x192"
+  }],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
